@@ -1,9 +1,0 @@
-Removed Pin From Net: NetName=T_SWO Pin=PZ1-1
-Removed Pin From Net: NetName=P_SWO Pin=PZ1-8
-Removed Pin From Net: NetName=STA_LED Pin=PZ2-3
-Removed Pin From Net: NetName=LED2 Pin=PZ2-6
-Added Pin To Net: NetName=STA_LED Pin=PZ1-1
-Added Pin To Net: NetName=LED2 Pin=PZ1-8
-Added Pin To Net: NetName=T_SWO Pin=PZ2-3
-Added Pin To Net: NetName=P_SWO Pin=PZ2-6
-Added Room: Name=ST-Link-V2.2

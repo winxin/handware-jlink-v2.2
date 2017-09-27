@@ -1,9 +1,0 @@
-------------------------------------------------------------
-Single Pin Net Report for ST-Link-V2.2.SchDoc
--- 2017/9/9
--- 14:56:36
-------------------------------------------------------------
-
-Net T_JTDI has only one pin (Pin U2-17)
-Net T_JTDO has only one pin (Pin U2-16)
-Net TXD0 has only one pin (Pin U2-21)

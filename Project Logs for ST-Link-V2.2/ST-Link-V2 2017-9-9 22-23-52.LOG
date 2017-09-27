@@ -1,5 +1,0 @@
-Added Component: Designator=R12(0603-1)
-Added Pin To Net: NetName=GND Pin=R12-1
-Added Pin To Net: NetName=NetD2_2 Pin=R12-2
-Added Member To Class: ClassName=ST-Link-V2.2 Member=Component R12 Res2
-Added Room: Name=ST-Link-V2.2

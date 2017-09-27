@@ -1,7 +1,0 @@
-Added Component: Designator=J2(USB_MICRO_5S_B)
-Added Pin To Net: NetName=GND Pin=J2-1
-Added Pin To Net: NetName=USB_P Pin=J2-2
-Added Pin To Net: NetName=USB_N Pin=J2-3
-Added Pin To Net: NetName=VBUS Pin=J2-4
-Added Member To Class: ClassName=ST-Link-V2.2 Member=Component J2 USB_M
-Added Room: Name=ST-Link-V2.2

@@ -1,9 +1,0 @@
-Removed Pin From Net: NetName=RX_LED_P Pin=PZ3-1
-Removed Pin From Net: NetName=RX_LED_N Pin=PZ3-8
-Removed Pin From Net: NetName=T_MOSI Pin=PZ4-4
-Removed Pin From Net: NetName=P_MOSI Pin=PZ4-5
-Added Pin To Net: NetName=T_MOSI Pin=PZ3-1
-Added Pin To Net: NetName=P_MOSI Pin=PZ3-8
-Added Pin To Net: NetName=RX_LED_P Pin=PZ4-4
-Added Pin To Net: NetName=RX_LED_N Pin=PZ4-5
-Added Room: Name=ST-Link-V2.2

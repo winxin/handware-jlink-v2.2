@@ -1,9 +1,0 @@
-Removed Pin From Net: NetName=T_JTMS Pin=PZ0-1
-Removed Pin From Net: NetName=SWO0 Pin=PZ0-2
-Removed Pin From Net: NetName=3.3V Pin=PZ0-7
-Removed Pin From Net: NetName=T_SWDIO_IN Pin=PZ0-8
-Added Pin To Net: NetName=SWO0 Pin=PZ0-1
-Added Pin To Net: NetName=T_JTMS Pin=PZ0-2
-Added Pin To Net: NetName=T_SWDIO_IN Pin=PZ0-7
-Added Pin To Net: NetName=3.3V Pin=PZ0-8
-Added Room: Name=ST-Link-V2.2

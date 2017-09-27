@@ -1,8 +1,0 @@
-Added Component: Designator=R16(0603-1)
-Added Component: Designator=R17(0603-1)
-Added Pin To Net: NetName=NetR16_1 Pin=R16-1
-Added Pin To Net: NetName=GND Pin=R16-2
-Added Pin To Net: NetName=NetR17_1 Pin=R17-1
-Added Pin To Net: NetName=GND Pin=R17-2
-Added Member To Class: ClassName=ST-Link-V2.2 Member=Component R16 Res1
-Added Member To Class: ClassName=ST-Link-V2.2 Member=Component R17 Res1

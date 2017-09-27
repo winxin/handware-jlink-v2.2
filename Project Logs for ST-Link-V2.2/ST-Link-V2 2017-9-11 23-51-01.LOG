@@ -1,9 +1,0 @@
-Removed Pin From Net: NetName=T_RXD Pin=PZ1-3
-Removed Pin From Net: NetName=T_TXD Pin=PZ1-4
-Removed Pin From Net: NetName=P_TXD Pin=PZ1-5
-Removed Pin From Net: NetName=P_RXD Pin=PZ1-6
-Added Pin To Net: NetName=T_TXD Pin=PZ1-3
-Added Pin To Net: NetName=T_RXD Pin=PZ1-4
-Added Pin To Net: NetName=P_RXD Pin=PZ1-5
-Added Pin To Net: NetName=P_TXD Pin=PZ1-6
-Added Room: Name=ST-Link-V2.2

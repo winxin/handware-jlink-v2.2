@@ -1,9 +1,0 @@
-Removed Pin From Net: NetName=USB_N Pin=PZ0-3
-Removed Pin From Net: NetName=USB_P Pin=PZ0-4
-Removed Pin From Net: NetName=USB_P_MCU Pin=PZ0-5
-Removed Pin From Net: NetName=USB_N_MCU Pin=PZ0-6
-Added Pin To Net: NetName=USB_P Pin=PZ0-3
-Added Pin To Net: NetName=USB_N Pin=PZ0-4
-Added Pin To Net: NetName=USB_N_MCU Pin=PZ0-5
-Added Pin To Net: NetName=USB_P_MCU Pin=PZ0-6
-Added Room: Name=ST-Link-V2.2
